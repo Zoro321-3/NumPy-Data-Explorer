@@ -128,7 +128,7 @@ This is an internship project, but suggestions and feedback are welcome! Feel fr
 
 **Syntecxhub Data Science Intern**
 - GitHub: [@Zoro321-3](https://github.com/Zoro321-3)
-- LinkedIn: [Share your profile]
+- LinkedIn: [www.linkedin.com/in/olamitide-adesiyan-b2256925b]
 
 ## 📝 License
 
