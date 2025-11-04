@@ -341,9 +341,6 @@ def main():
     print("  - multiple_arrays.npz")
     print("  - sample_array.txt")
     print("\nNext steps:")
-    print("  1. Review the code and understand each section")
-    print("  2. Upload this code to your GitHub repository")
-    print("  3. Submit through the official Submission Form")
     print("="*70 + "\n")
 
 
